@@ -1,0 +1,14 @@
+# blank lines and lines starting with # will be ignored
+# values have to be at the end of each line
+m_janus=1.98e18
+m_epimetheus=5.5e17
+m_saturn=5.688e26
+
+diam_janus=175.0
+diam_epimetheus=105.0
+
+orbit_janus =    151472000.0
+orbit_epimetheus=151422000.0
+
+gravity constant G=6.67384e-11
+

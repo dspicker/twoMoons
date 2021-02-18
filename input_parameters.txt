@@ -1,0 +1,18 @@
+# t0 and tf in days
+t0= 0
+tf= 3652.5
+
+# h in seconds
+h= 60
+
+
+# take this precision for energy conservation
+#prec= 1e17
+
+# take this precision for the other methods
+prec= 0.1
+
+
+# 0: 1vs2 steps, 1: energy conservation, 3: const h
+energy_check=0
+
